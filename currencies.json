@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Австралийский доллар",
+    "code": "AUD",
+    "value": "51,9574",
+    "nominal": "1"
+  },
+  {
+    "name": "Азербайджанский манат",
+    "code": "AZN",
+    "value": "47,9422",
+    "nominal": "1"
+  },
+  {
+    "name": "Фунт стерлингов",
+    "code": "GBP",
+    "value": "105,8301",
+    "nominal": "1"
+  },
+  {
+    "name": "Армянских драмов",
+    "code": "AMD",
+    "value": "20,8146",
+    "nominal": "100"
+  },
+  {
+    "name": "Белорусский рубль",
+    "code": "BYN",
+    "value": "26,6747",
+    "nominal": "1"
+  },
+  {
+    "name": "Болгарский лев",
+    "code": "BGN",
+    "value": "45,4340",
+    "nominal": "1"
+  },
+  {
+    "name": "Бразильский реал",
+    "code": "BRL",
+    "value": "14,2788",
+    "nominal": "1"
+  },
+  {
+    "name": "Форинтов",
+    "code": "HUF",
+    "value": "22,4263",
+    "nominal": "100"
+  },
+  {
+    "name": "Донгов",
+    "code": "VND",
+    "value": "32,8729",
+    "nominal": "10000"
+  },
+  {
+    "name": "Гонконгский доллар",
+    "code": "HKD",
+    "value": "10,5082",
+    "nominal": "1"
+  },
+  {
+    "name": "Лари",
+    "code": "GEL",
+    "value": "29,3605",
+    "nominal": "1"
+  },
+  {
+    "name": "Датская крона",
+    "code": "DKK",
+    "value": "11,9106",
+    "nominal": "1"
+  },
+  {
+    "name": "Дирхам ОАЭ",
+    "code": "AED",
+    "value": "22,1925",
+    "nominal": "1"
+  },
+  {
+    "name": "Доллар США",
+    "code": "USD",
+    "value": "81,5018",
+    "nominal": "1"
+  },
+  {
+    "name": "Евро",
+    "code": "EUR",
+    "value": "87,5697",
+    "nominal": "1"
+  },
+  {
+    "name": "Египетских фунтов",
+    "code": "EGP",
+    "value": "16,1451",
+    "nominal": "10"
+  },
+  {
+    "name": "Индийских рупий",
+    "code": "INR",
+    "value": "9,4036",
+    "nominal": "10"
+  },
+  {
+    "name": "Рупий",
+    "code": "IDR",
+    "value": "49,7599",
+    "nominal": "10000"
+  },
+  {
+    "name": "Тенге",
+    "code": "KZT",
+    "value": "16,3317",
+    "nominal": "100"
+  },
+  {
+    "name": "Канадский доллар",
+    "code": "CAD",
+    "value": "56,9783",
+    "nominal": "1"
+  },
+  {
+    "name": "Катарский риал",
+    "code": "QAR",
+    "value": "22,3906",
+    "nominal": "1"
+  },
+  {
+    "name": "Сомов",
+    "code": "KGS",
+    "value": "9,3664",
+    "nominal": "10"
+  },
+  {
+    "name": "Юань",
+    "code": "CNY",
+    "value": "11,2232",
+    "nominal": "1"
+  },
+  {
+    "name": "Молдавских леев",
+    "code": "MDL",
+    "value": "45,5361",
+    "nominal": "10"
+  },
+  {
+    "name": "Новозеландский доллар",
+    "code": "NZD",
+    "value": "47,4626",
+    "nominal": "1"
+  },
+  {
+    "name": "Норвежских крон",
+    "code": "NOK",
+    "value": "77,0812",
+    "nominal": "10"
+  },
+  {
+    "name": "Злотый",
+    "code": "PLN",
+    "value": "21,3624",
+    "nominal": "1"
+  },
+  {
+    "name": "Румынский лей",
+    "code": "RON",
+    "value": "17,9062",
+    "nominal": "1"
+  },
+  {
+    "name": "СДР (специальные права заимствования)",
+    "code": "XDR",
+    "value": "108,6582",
+    "nominal": "1"
+  },
+  {
+    "name": "Сингапурский доллар",
+    "code": "SGD",
+    "value": "61,1784",
+    "nominal": "1"
+  },
+  {
+    "name": "Сомони",
+    "code": "TJS",
+    "value": "74,5725",
+    "nominal": "10"
+  },
+  {
+    "name": "Батов",
+    "code": "THB",
+    "value": "24,2550",
+    "nominal": "10"
+  },
+  {
+    "name": "Турецких лир",
+    "code": "TRY",
+    "value": "22,2398",
+    "nominal": "10"
+  },
+  {
+    "name": "Новый туркменский манат",
+    "code": "TMT",
+    "value": "23,2862",
+    "nominal": "1"
+  },
+  {
+    "name": "Узбекских сумов",
+    "code": "UZS",
+    "value": "62,9679",
+    "nominal": "10000"
+  },
+  {
+    "name": "Гривен",
+    "code": "UAH",
+    "value": "19,6677",
+    "nominal": "10"
+  },
+  {
+    "name": "Чешских крон",
+    "code": "CZK",
+    "value": "35,4849",
+    "nominal": "10"
+  },
+  {
+    "name": "Шведских крон",
+    "code": "SEK",
+    "value": "80,6182",
+    "nominal": "10"
+  },
+  {
+    "name": "Швейцарский франк",
+    "code": "CHF",
+    "value": "92,6578",
+    "nominal": "1"
+  },
+  {
+    "name": "Сербских динаров",
+    "code": "RSD",
+    "value": "75,8742",
+    "nominal": "100"
+  },
+  {
+    "name": "Рэндов",
+    "code": "ZAR",
+    "value": "45,2368",
+    "nominal": "10"
+  },
+  {
+    "name": "Вон",
+    "code": "KRW",
+    "value": "56,2858",
+    "nominal": "1000"
+  },
+  {
+    "name": "Иен",
+    "code": "JPY",
+    "value": "54,5272",
+    "nominal": "100"
+  }
+]
